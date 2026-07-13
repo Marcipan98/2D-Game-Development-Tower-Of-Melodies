@@ -10,7 +10,7 @@ I developed a 2D video game prototype in which the player takes the role of a gi
   </a>
 </p>
 
-*The video above showcases my implementation. Some parts have been sped up due to assignment requirements.*
+### Please click the video above to view my implementation. Some parts have been sped up due to assignment requirements. ###
 
 ---
 
